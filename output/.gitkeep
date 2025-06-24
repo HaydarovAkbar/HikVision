@@ -1,0 +1,6 @@
+# Output papkasi
+# Bu papka avtomatik yaratiladi va natija fayllar bu yerda saqlanadi
+
+*.json
+*.csv
+*.log
